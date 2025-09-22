@@ -233,5 +233,4 @@ For help, questions, or contributions, feel free to reach out ✨
 
 ---
 
-👉 Do you also want me to add a **sequence diagram (PlantUML)** in the README that shows the JWT authentication flow (Register → Login → JWT Filter → Controller)? That would make it look even more professional.
 
