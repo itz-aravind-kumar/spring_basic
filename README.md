@@ -1,6 +1,5 @@
 Perfect 👍 Here’s the **full beautiful README in Markdown** (with badges, emojis, and everything) that you can directly copy-paste into `README.md`:
 
-````markdown
 # 🚀 Learn1 Spring Boot JWT Authentication API  
 
 ![Java](https://img.shields.io/badge/Java-21-orange?logo=java&logoColor=white)  
@@ -231,9 +230,8 @@ Authorization: Bearer your_jwt_token
 
 For help, questions, or contributions, feel free to reach out ✨
 
-```
 
 ---
 
 👉 Do you also want me to add a **sequence diagram (PlantUML)** in the README that shows the JWT authentication flow (Register → Login → JWT Filter → Controller)? That would make it look even more professional.
-```
+
