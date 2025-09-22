@@ -1,5 +1,3 @@
-Perfect 👍 Here’s the **full beautiful README in Markdown** (with badges, emojis, and everything) that you can directly copy-paste into `README.md`:
-
 # 🚀 Learn1 Spring Boot JWT Authentication API  
 
 ![Java](https://img.shields.io/badge/Java-21-orange?logo=java&logoColor=white)  
@@ -232,5 +230,6 @@ For help, questions, or contributions, feel free to reach out ✨
 
 
 ---
+
 
 
