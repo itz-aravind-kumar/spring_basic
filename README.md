@@ -8,7 +8,7 @@
 ![JWT](https://img.shields.io/badge/JWT-Authentication-purple?logo=jsonwebtokens&logoColor=white)  
 
 A **Spring Boot REST API** with **JWT-based authentication** and secure user management.  
-It follows **modern Spring Security best practices** and uses **PostgreSQL** for persistence.  
+It follows **modern Spring Security best practices** and uses **PostgreSQL** for persistence...
 
 ---
 
